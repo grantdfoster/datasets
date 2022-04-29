@@ -1,4 +1,4 @@
 city,country,lat,lng,pop
 Miami,United States,25.7617,-80.1918,2000000
 London,UK,51.5072,0.1276,0
-Los Angeles,United States,34.0522,118.2437,0
+Los Angeles,United States,34.0522,-118.2437,0
